@@ -1,8 +1,8 @@
 <h2 align="center">Приветствую, Я <a href="https://daniilshat.ru/" target="_blank"> Анастасия</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Я увлечена работой с данными и стремлюсь применять их для создания ценных инсайтов и помощи в принятии обоснованных решений.</h4>
-<h4 align="center">Моя цель - не просто анализировать информацию, но и превращать ее в ценные инсайты для бизнеса.</h4>
-<h4 align="center">Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
+<h4 align="center">Я увлечена работой с данными и стремлюсь использовать их для выявления новых инсайтов и принятия обоснованных решений.
+Моя цель - не просто анализировать информацию, но и превращать ее в ценные инсайты для бизнеса.
+<br>Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сфера+интересов+:)](https://git.io/typing-svg)
 - &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Аналитика данных, игровая аналитика, BI.<br>
