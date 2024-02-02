@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сфера+интересов+:)](https://git.io/typing-svg)
 - &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Аналитика данных, игровая аналитика, BI.<br>
+- <img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/letterbox%20(1).gif?raw=true" width="25" /> &nbsp; Мой Telegram: **[Liatrissa](https://t.me/liatrissa)**<br>
 
 <hr></hr>
 
@@ -23,18 +24,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Контакты+:)](https://git.io/typing-svg)
+<!--
 <div id="badges">
  <!-- <a href="https://drive.google.com/">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a> -->
-  <a href="https://t.me/liatrissa"> 
-    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
-  </a>
 </div>
 
 <!--
