@@ -4,8 +4,7 @@
 Моя цель - не просто анализировать информацию, но и превращать ее в ценные инсайты для бизнеса.
 <br>Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сфера+интересов+:)](https://git.io/typing-svg)
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Аналитика данных, игровая аналитика, BI.<br>
+- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Сфера интересов: Аналитика данных, игровая аналитика, BI.<br>
 - <img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/letterbox%20(1).gif?raw=true" width="25" /> &nbsp; Мой Telegram: **[Liatrissa](https://t.me/liatrissa)**<br>
 
 <hr></hr>
@@ -23,17 +22,21 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 <!--
 <div id="badges">
  <!-- <a href="https://drive.google.com/">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a> -->
-</div>
+<!-- </div>
+<a href="https://Liatrissa.github.io" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+</a>
 
+<hr></hr>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71822&random=false&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
 <!--
-###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
 |[***] |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
