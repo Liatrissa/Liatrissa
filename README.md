@@ -1,4 +1,4 @@
-<h2 align="center">Приветствую, Я <a href="https://daniilshat.ru/" target="_blank"> Анастасия</a>
+<h2 align="center">Приветствую, Я Анастасия</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center">Я увлечена работой с данными и стремлюсь использовать их для выявления новых инсайтов и принятия обоснованных решений.
 Моя цель - не просто анализировать информацию, но и превращать ее в ценные инсайты для бизнеса.
