@@ -33,13 +33,13 @@
  <!-- <a href="https://drive.google.com/">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a> -->
-<!-- </div>
-<a href="https://Liatrissa.github.io" target="_blank">
+ </div>
+<a href="https://github.com/Liatrissa/Portfolio/blob/main/README.md">
        <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </a>
 
 <hr></hr>
- 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71822&random=false&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
 <!--
 | Название | Инструменты |
