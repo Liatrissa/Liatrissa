@@ -1,6 +1,6 @@
 <h2 align="center">Приветствую, Я Анастасия</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Я фронтенд-разработчик, увлечённый созданием красивых, удобных и производительных веб-приложений.
+<h4 align="center">Я frontend-разработчик, увлечённый созданием красивых, удобных и производительных веб-приложений.
 <br>Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
 
 - &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Интересуюсь современными подходами в разработке, UI/UX-дизайном и созданием анимаций.<br>
