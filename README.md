@@ -30,9 +30,10 @@
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a> -->
  </div>
+<!--
 <a href="https://github.com/Liatrissa/Portfolio/blob/main/README.md">
        <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-</a>
+</a>-->
 
 <hr></hr>
 
