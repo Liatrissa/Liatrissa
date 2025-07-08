@@ -1,10 +1,9 @@
 <h2 align="center">Приветствую, Я Анастасия</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Я увлечена работой с данными и стремлюсь использовать их для выявления новых инсайтов и принятия обоснованных решений.
-Моя цель - не просто анализировать информацию, но и превращать ее в ценные инсайты для бизнеса.
+<h4 align="center">я фронтенд-разработчик, увлечённый созданием красивых, удобных и производительных веб-приложений.
 <br>Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
 
-- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Сфера интересов: Аналитика данных, игровая аналитика, BI.<br>
+- &nbsp;&nbsp;<img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Интересуюсь современными подходами в разработке, UI/UX-дизайном и созданием анимаций.<br>
 - <img src="https://github.com/Liatrissa/Liatrissa/blob/main/image/letterbox%20(1).gif?raw=true" width="25" /> &nbsp; Мой Telegram: **[Liatrissa](https://t.me/liatrissa)**<br>
 
 <hr></hr>
