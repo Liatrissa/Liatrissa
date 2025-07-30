@@ -1,5 +1,5 @@
 <h2 align="center">Приветствую, Я Анастасия</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="15%/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="15"/></h1>
 <h4 align="center">Я frontend-разработчик, увлечённый созданием красивых, удобных и производительных веб-приложений.
 <br>Я всегда открыта для обсуждения новых проектов и возможностей сотрудничества.</h4>
 
